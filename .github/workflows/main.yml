@@ -33,7 +33,7 @@ jobs:
         flake8 --docstring-convention numpy package --count --exit-zero --max-complexity=10 --max-line-length=80 --statistics
     - name: Test with pytest
       run: |
-        coverage run --omit="reaxnet/tests/*" -m pytest
+        coverage run --omit="package/tests/*" -m pytest
     - name: Get coverage report
       run: |
         coverage report
