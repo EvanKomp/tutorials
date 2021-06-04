@@ -1,5 +1,6 @@
-# tutorials ![build badge](https://github.com/valleau-lab/tutorials/actions/workflows/main.yml/badge.svg?branch=main)
-Contains python tutorials for machine learning, visualization, and other useful skillsets. This repository also serves as a demonstration of a python package setup with GitHub continuous integration.
+# Tutorials ![build badge](https://github.com/valleau-lab/tutorials/actions/workflows/main.yml/badge.svg?branch=main)
+This repository contains python tutorials for machine learning, visualization, computational chemistry etc. 
+These tutorials were created by students in the [Valleau lab](https://www.valleau-lab.com/students). 
 
 <img src="/docs/long_logo_2.png" alt="logo" width="400"/>
 
