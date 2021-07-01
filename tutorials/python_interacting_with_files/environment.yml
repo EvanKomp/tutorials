@@ -1,0 +1,6 @@
+name: files
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
