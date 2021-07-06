@@ -11,6 +11,7 @@ Individual turorials are located in the `/tutorials/` folder. See the repository
 Currently contained tutorials:
 - `machine_learning_with_keras`
 - `github`
+- `files_in_python`
 
 ## Repo structure
 ```
